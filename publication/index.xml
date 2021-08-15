@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Onkar Jadhav</title>
+    <link>https://OnkaraJadhav.github.io/publication/</link>
+      <atom:link href="https://OnkaraJadhav.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://OnkaraJadhav.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://OnkaraJadhav.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Complexity reduction for parametric high dimensional models in the analysis of financial risk</title>
+      <link>https://OnkaraJadhav.github.io/publication/conferenceecmi/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/conferenceecmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural network and reduced order modeling for financial risk analysis</title>
+      <link>https://OnkaraJadhav.github.io/publication/ml/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model order reduction for the simulation of parametric interest rate models in financial risk analysis</title>
+      <link>https://OnkaraJadhav.github.io/publication/articlejmi/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/articlejmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model order reduction for parametric high dimensional models in the analysis of financial risk</title>
+      <link>https://OnkaraJadhav.github.io/publication/preprint/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric model order reduction of a thermoelectric generator for electrically active implants</title>
+      <link>https://OnkaraJadhav.github.io/publication/confpapermsc2/</link>
+      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/confpapermsc2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of a thermoelectric generator for electrical active implants</title>
+      <link>https://OnkaraJadhav.github.io/publication/confpapermsc1/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/publication/confpapermsc1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
