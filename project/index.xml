@@ -37,6 +37,15 @@
     </item>
     
     <item>
+      <title>Machine learning and deep learning for CFD</title>
+      <link>https://OnkaraJadhav.github.io/project/data4wind/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/project/data4wind/</guid>
+      <description>&lt;p&gt;Computational fluid dynamics (CFD) represents an attractive tool for estimating wind pressures and wind loads on high-rise buildings. The CFD analyses can be conducted either by low-fidelity simulations (RANS) or by high-fidelity ones (LES). The low-fidelity model can efficiently estimate wind pressures over a large range of wind directions, but it generally lacks accuracy. On the other hand, the high-fidelity model generally exhibits satisfactory accuracy, yet, the high computational cost can limit the number of approaching wind angles that can be considered. In order to take advantage of the main benefits of these two CFD approaches, a multi-fidelity machine learning framework is investigated that aims to ensure the simulation accuracy while maintaining the computational efficiency.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Model Order Reduction for Finance</title>
       <link>https://OnkaraJadhav.github.io/project/morfinance/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
