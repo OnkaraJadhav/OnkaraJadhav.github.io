@@ -13,12 +13,46 @@
     </image>
     
     <item>
+      <title>ECMI 2021 conference</title>
+      <link>https://OnkaraJadhav.github.io/project/ecmi2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/project/ecmi2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graduate seminar, Numerical mathematics</title>
+      <link>https://OnkaraJadhav.github.io/project/tubseminar2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/project/tubseminar2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine learning and deep learning for CFD</title>
       <link>https://OnkaraJadhav.github.io/project/data4wind/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://OnkaraJadhav.github.io/project/data4wind/</guid>
       <description>&lt;p&gt;Computational fluid dynamics (CFD) represents an attractive tool for estimating wind pressures and wind loads on high-rise buildings. The CFD analyses can be conducted either by low-fidelity simulations (RANS) or by high-fidelity ones (LES). The low-fidelity model can efficiently estimate wind pressures over a large range of wind directions, but it generally lacks accuracy. On the other hand, the high-fidelity model generally exhibits satisfactory accuracy, yet, the high computational cost can limit the number of approaching wind angles that can be considered. In order to take advantage of the main benefits of these two CFD approaches, a multi-fidelity machine learning framework is investigated that aims to ensure the simulation accuracy while maintaining the computational efficiency.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Model Order Reduction for Finance</title>
+      <link>https://OnkaraJadhav.github.io/project/morfinance/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/project/morfinance/</guid>
+      <description>&lt;p&gt;It is essential to be aware of the financial risk associated with an invested product. The risk analysis of financial instruments often requires the valuation of such instruments under a wide range of future market scenarios. The market scenarios (e.g., interest rates) are then input parameters in a valuation function that delivers the fair value of such financial instruments. These models are calibrated based on market scenarios that generate a high-dimensional parameter space. In short, to perform the risk analysis, the financial model needs to be solved for such a high dimensional parameter space, and this requires efficient algorithms. These two benchmark cases present the model order reduction approach based on the proper orthogonal decomposition approach with greedy sampling approaches for parameter sampling. The first case generates the 10000 simulated yield curves, which are then used to calibrate the financial model parameters. The second case presents both the classical and adaptive greedy sampling approaches.&lt;/p&gt;
+&lt;p&gt;In the source directory, one can find all source files required to run the benchmark cases. The directory benchmark contains the input data with the executable files. The Benchmark1_1.m file executes the yield curve simulation while the Benchmark1_2.nb file runs the parameter calibration. The classical greedy and adaptive greedy sampling techniques can be executed using Benchmark2_1.m and Benchmark2_2.m files. One can find a PDf file with a detailed step-by-step description of the benchmark case in the directory documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop in Industrial Mathematics 2019</title>
+      <link>https://OnkaraJadhav.github.io/project/wim2019/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://OnkaraJadhav.github.io/project/wim2019/</guid>
+      <description></description>
     </item>
     
   </channel>
