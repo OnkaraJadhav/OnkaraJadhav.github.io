@@ -2,31 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://OnkaraJadhav.github.io/publication-type/1/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication-type/3/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/conferenceecmi/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/ml/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication_types/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://OnkaraJadhav.github.io/tag/academic/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OnkaraJadhav.github.io/post/getting-started/</loc>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://OnkaraJadhav.github.io/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OnkaraJadhav.github.io/post/getting-started-copy-2/</loc>
@@ -37,18 +19,6 @@
   </url><url>
     <loc>https://OnkaraJadhav.github.io/tags/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication-type/2/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/articled4w/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/articleetna/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/articlejmi/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OnkaraJadhav.github.io/tag/computational-finance/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
@@ -101,26 +71,16 @@
     <loc>https://OnkaraJadhav.github.io/post/getting-started-copy/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/preprint2/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/preprint/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://OnkaraJadhav.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://OnkaraJadhav.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/confpapermsc2/</loc>
-    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://OnkaraJadhav.github.io/publication/confpapermsc1/</loc>
-    <lastmod>2017-10-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://OnkaraJadhav.github.io/admin/</loc>
   </url><url>
     <loc>https://OnkaraJadhav.github.io/categories/</loc>
+  </url><url>
+    <loc>https://OnkaraJadhav.github.io/publication_types/</loc>
   </url>
 </urlset>

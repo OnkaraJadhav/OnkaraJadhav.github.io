@@ -5,28 +5,12 @@
     <link>https://OnkaraJadhav.github.io/</link>
       <atom:link href="https://OnkaraJadhav.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Onkar Jadhav</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://OnkaraJadhav.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Onkar Jadhav</title>
       <link>https://OnkaraJadhav.github.io/</link>
     </image>
-    
-    <item>
-      <title>Complexity reduction for parametric high dimensional models in the analysis of financial risk</title>
-      <link>https://OnkaraJadhav.github.io/publication/conferenceecmi/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/conferenceecmi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural network and reduced order modeling for financial risk analysis</title>
-      <link>https://OnkaraJadhav.github.io/publication/ml/</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/ml/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>My Ph.D. Life</title>
@@ -46,30 +30,6 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;My experience as a Marie Curie fellow: &lt;a href=&#34;https://youtu.be/rJAUDG6Y0Pc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/rJAUDG6Y0Pc&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A multi-fidelity wind surface pressure assessment via machine learning: A high-rise building case</title>
-      <link>https://OnkaraJadhav.github.io/publication/articled4w/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/articled4w/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Error analysis of a model order reduction framework for financial risk analysis</title>
-      <link>https://OnkaraJadhav.github.io/publication/articleetna/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/articleetna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model order reduction for the simulation of parametric interest rate models in financial risk analysis</title>
-      <link>https://OnkaraJadhav.github.io/publication/articlejmi/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/articlejmi/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -131,22 +91,6 @@
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Model Order Reduction in Computational Finance: &lt;a href=&#34;https://www.romsoc.eu/model-hierarchy-for-the-reduced-order-modelling/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.romsoc.eu/model-hierarchy-for-the-reduced-order-modelling/&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Error Analysis of a Model Order Reduction Framework for Financial Risk Analysis</title>
-      <link>https://OnkaraJadhav.github.io/publication/preprint2/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/preprint2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model order reduction for parametric high dimensional models in the analysis of financial risk</title>
-      <link>https://OnkaraJadhav.github.io/publication/preprint/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/preprint/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -276,22 +220,6 @@ Three
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Parametric model order reduction of a thermoelectric generator for electrically active implants</title>
-      <link>https://OnkaraJadhav.github.io/publication/confpapermsc2/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/confpapermsc2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design of a thermoelectric generator for electrical active implants</title>
-      <link>https://OnkaraJadhav.github.io/publication/confpapermsc1/</link>
-      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://OnkaraJadhav.github.io/publication/confpapermsc1/</guid>
-      <description></description>
     </item>
     
     <item>
